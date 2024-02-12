@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Quicksand", sans-serif;
+  /* font-family: '"Quicksand", sans-serif'; */
+  src: url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap" rel="stylesheet');
+}
+@font-face {
+  font-family: "Lato", sans-serif;
+  /* font-family: "" Lato ", sans-serif"; */
+  src: url('https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet');
+}
